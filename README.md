@@ -14,10 +14,10 @@ Minimal.
 Customizable.  
 Made to stay out of the way.
 
-[**View PA Keystroke →**](https://github.com/fateStray/PA-Keystroke)
+[**View PA Keystroke →**](https://github.com/fateStray/PA-Keystroke-Release)
 
 <br>
-
+Release
 ---
 
 ### SELECTED WORK
@@ -35,9 +35,9 @@ A clean and customizable keystroke visualizer for gameplay recordings, livestrea
 </td>
 <td width="50%">
 
-#### 02 / Experiments
+#### 02 / PAMC`private`
 
-Small tools, interfaces and experiments.
+An automatic tool for PartyAnimals fishing.
 
 Things built because they seemed worth building.
 
@@ -69,7 +69,7 @@ I care about the details that most people don't notice.
 ### ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fateStray&hide_border=true&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uninstall400&hide_border=true&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff" width="100%">
 </p>
 
 <br>
@@ -82,6 +82,6 @@ I care about the details that most people don't notice.
 
 <br>
 
-<sub>building quietly.</sub>
+<sub>building....</sub>
 
 </p>
