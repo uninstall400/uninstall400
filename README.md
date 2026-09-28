@@ -17,8 +17,9 @@ Made to stay out of the way.
 [**View PA Keystroke →**](https://github.com/fateStray/PA-Keystroke-Release)
 
 <br>
-Release
----
+
+### Release
+
 
 ### SELECTED WORK
 
@@ -58,21 +59,12 @@ even when there's a lot happening underneath.
 
 My interests are around:
 
-`Software` · `UI` · `Game Tools` · `Minecraft`
+`Software` · `UI` · `Game Tools` · `PartyAnimals`
 
 I care about the details that most people don't notice.
 
 <br>
 
----
-
-### ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uninstall400&hide_border=true&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff" width="100%">
-</p>
-
-<br>
 
 ---
 
