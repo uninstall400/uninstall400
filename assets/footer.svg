@@ -1,0 +1,18 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="140" fill="none"/>
+  <line x1="40" y1="24" x2="860" y2="24"
+        stroke="#555555" stroke-width="1"/>
+  <text x="450" y="76"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="24"
+        font-weight="500"
+        letter-spacing="2"
+        fill="#ffffff">fateStray</text>
+  <text x="450" y="105"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="13"
+        letter-spacing="1"
+        fill="#888888">building quietly.</text>
+</svg>
