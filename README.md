@@ -14,7 +14,7 @@ Minimal.
 Customizable.  
 Made to stay out of the way.
 
-[**View PA Keystroke →**](https://github.com/fateStray/PA-Keystroke-Release)
+[**View PA Keystroke →**](https://github.com/fateStray/PA-Keystroke-Releases)
 
 <br>
 
