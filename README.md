@@ -36,9 +36,9 @@ A clean and customizable keystroke visualizer for gameplay recordings, livestrea
 </td>
 <td width="50%">
 
-#### 02 / PAMC`private`
+#### 02 / Whisper`BETA`
 
-An automatic tool for PartyAnimals fishing.
+A... Lyrics? fluency.
 
 Things built because they seemed worth building.
 
