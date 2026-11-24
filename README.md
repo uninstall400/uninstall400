@@ -1,6 +1,6 @@
-# fateStray
+# ItzLune
+  ***or fateStray***
 
-> I make small things that feel right.
 
 <br>
 
@@ -70,7 +70,7 @@ I care about the details that most people don't notice.
 
 <p align="center">
 
-<code>fateStray</code>
+<code>ItzLune</code>
 
 <br>
 
