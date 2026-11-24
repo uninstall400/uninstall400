@@ -18,6 +18,14 @@ Made to stay out of the way.
 
 <br>
 
+**Whisper**
+
+A fluent lyrics overlay.
+
+[**View Whisper →**](https://github.com/Whisper-Lyrics/Whisper-Release)
+
+<br>
+
 ### Release
 
 
@@ -42,6 +50,8 @@ A... Lyrics? fluency.
 
 Things built because they seemed worth building.
 
+`Windows` · `Desktop`
+
 </td>
 </tr>
 </table>
@@ -52,7 +62,7 @@ Things built because they seemed worth building.
 
 ### ABOUT
 
-I'm **fateStray**.
+I'm **ItzLune**.
 
 I like building software that feels simple to use  
 even when there's a lot happening underneath.
